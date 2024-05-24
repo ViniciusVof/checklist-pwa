@@ -1,5 +1,5 @@
 import { HelmetProvider } from 'react-helmet-async';
-import { Router } from 'routes';
+import { Router } from '@/routes';
 
 export function Loader() {
   return (

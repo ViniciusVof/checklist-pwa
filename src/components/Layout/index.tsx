@@ -1,4 +1,4 @@
-import { SEO } from 'components/SEO';
+import { SEO } from '@/components/SEO';
 import { ReactNode } from 'react';
 
 interface LayoutProps {
